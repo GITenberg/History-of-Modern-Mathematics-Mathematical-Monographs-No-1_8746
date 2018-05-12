@@ -1,4 +1,8 @@
 _repo: History-of-Modern-Mathematics-Mathematical-Monographs-No-1_8746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, David Eugene
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3258
     wikipedia: http://en.wikipedia.org/wiki/David_Eugene_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8746#History-of-Modern-Mathematics-Mathematical-Monographs-No-1
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
