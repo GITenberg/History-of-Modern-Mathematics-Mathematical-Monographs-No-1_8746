@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QA'
 - !lcsh 'Mathematics -- History'
+- GITenberg
 title: 'History of Modern Mathematics
 
   Mathematical Monographs No. 1'
